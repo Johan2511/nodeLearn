@@ -1,0 +1,3 @@
+npm i bcrypt = para cifrar contraseñas
+npm i moment = para trabajar con fechas
+NPM i sharp = para trabajar con imagenes
